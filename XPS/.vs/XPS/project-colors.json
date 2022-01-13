@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e5bc1393-a2a7-4872-ac5f-270dcb719c33": {
+      "ProjectGuid": "e5bc1393-a2a7-4872-ac5f-270dcb719c33",
+      "DisplayName": "XPS.Test.Console",
+      "ColorIndex": 0
+    },
+    "aed91955-39ac-4d7e-af98-3a50172a0d90": {
+      "ProjectGuid": "aed91955-39ac-4d7e-af98-3a50172a0d90",
+      "DisplayName": "XPS.Test.DI",
+      "ColorIndex": 1
+    },
+    "d4f77bee-7eef-40de-9f80-15b482a584cd": {
+      "ProjectGuid": "d4f77bee-7eef-40de-9f80-15b482a584cd",
+      "DisplayName": "XPS.Test.UnitTests",
+      "ColorIndex": 2
+    },
+    "fce285f9-672c-4636-91ee-59b3a0c7557b": {
+      "ProjectGuid": "fce285f9-672c-4636-91ee-59b3a0c7557b",
+      "DisplayName": "XPS.Test.Services",
+      "ColorIndex": 3
+    },
+    "af0b508b-3fc1-42f3-bf89-5df0254fc1cf": {
+      "ProjectGuid": "af0b508b-3fc1-42f3-bf89-5df0254fc1cf",
+      "DisplayName": "XPS.Test.Domain",
+      "ColorIndex": 4
+    },
+    "e2c4c8a0-4093-41e3-ba33-7b00fe4021a9": {
+      "ProjectGuid": "e2c4c8a0-4093-41e3-ba33-7b00fe4021a9",
+      "DisplayName": "XPS.Test.Common",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

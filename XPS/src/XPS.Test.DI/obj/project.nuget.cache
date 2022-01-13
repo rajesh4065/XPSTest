@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7T3n7AHxn75w9flznvGMrFLq366CNUU99n/dTC/w/CwKrBVb+vgE4QhgaUZ1z++Z793tmcfzz2FwdOYPM7oTQQ==",
+  "success": true,
+  "projectFilePath": "D:\\Samples\\XPS\\src\\XPS.Test.DI\\XPS.Test.DI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ukazu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ukazu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ukazu\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\ukazu\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ukazu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
